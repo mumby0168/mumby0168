@@ -23,9 +23,9 @@ I have also worked with and developed applications using the following languages
 
 ### Microservice based visitor management system
 
-### Aircraft Replay Software
+### Aircraft Replay Software
 
-### Aircraft Data Transfer Solution
+### Aircraft Data Transfer Solution
 
 ### Customer Engagement System
 
