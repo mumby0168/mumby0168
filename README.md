@@ -3,8 +3,9 @@ I am a software engineer currently working in the aerospace industry working on 
 
 ## Projects
 
-* [*Timebox*](https://github.com/mumby0168/timebox): an example of a modular monolith application
 * [*VMS*](https://github.com/mumby0168/VMS): microservice based visitor management system
+* [*Templates*](https://github.com/mumby0168/mumby-templates): Some useful templates I use
+* [*Timebox*](https://github.com/mumby0168/timebox): an example of a modular monolith application
 * [*RestEasy*](https://github.com/mumby0168/RestEasy): A simple library to get started with REST in ASP.NET CORE
 * [*DotNetCli*](https://github.com/mumby0168/DotNetCli): A library to get started writing cli based applications
 
