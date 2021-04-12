@@ -1,5 +1,5 @@
 # Billy Mumby 😎
-I am a software engineer currently working in the aerospace industry working on ground based training solutions. I have recently completed by degree in Computer Science at the University of Hull achieving a first.
+I am a Developer working @ Next PLC in the Warehouse & Distribution Systems Team.
 
 ## Projects
 
