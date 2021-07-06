@@ -29,3 +29,8 @@ I have also worked with and developed applications using the following languages
 - Dart
 - Flutter
 - Python
+
+## Some Statistics
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumby0168&theme=dark&layout=compact&hide=html,javascript,CSS,PowerShell&langs_count=6" alt="mumby0168"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mumby0168&show_icons=true&theme=dark&count_private=true" alt="mumby0168" />
