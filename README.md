@@ -1,10 +1,27 @@
 # Billy Mumby 😎
+
 I am a Senior Developer working @ Next PLC in the Warehouse & Distribution Systems Team.
 
-## Tech
-I work mainly in C# and ASPNET.CORE, I also work in Angular & Blazor and have had a lot of experience in WPF. I have had experience in Azure making use of services such as App Insights, Azure Service Bus, App Services and many more. I use Azure DevOps & GitHub for most of my work making use of there deployment pipelines for CI/CD.
+I work in .NET utitilsing the cloud through Azure.
 
-## Some Statistics
+## Highlights
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumby0168&theme=dark&layout=compact&hide=html,javascript,CSS,PowerShell&langs_count=6" alt="mumby0168"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mumby0168&show_icons=true&theme=dark&count_private=true" alt="mumby0168" />
+🌌 Passionate maintainer of the [.NET Azure Cosmos Repository](https://github.com/IEvangelist/azure-cosmos-dotnet-repository).
+
+🧑‍💻 Passoniate about domain driven design & clean architecture.
+
+✍️ Recently started a [blog](https://billy-mumby-blog.hashnode.dev) writing about .NET, DevOps & Azure!
+
+📺 Due to appear on the [.NET docs show](https://dotnetdocs.dev/show/6a09ebde-bef4-43ba-be23-23657c65f300). Talking about my journey in OSS.
+
+🔥 Love Blazor, created a small library that was taken on by the `Blazored` family [Blazored.AzureStaticWebAppAuthentication](https://github.com/Blazored/AzureStaticWebAppAuthentication).
+
+🛠 Maintainer of packages to aid testing, clean architecture and creating .NET solutions. Check out my nuget packages below!
+
+## Published Nuget Packages
+
+* [Fluent.Http](https://www.nuget.org/packages/Mumby0168.Fluent.Http/)
+* [CleanArchitecture.Scaffolder](https://www.nuget.org/packages/Mumby0168.CleanArchitecture.Scaffolder/0.0.1-pre7)
+* [CleanArchitecture.Exceptions](https://www.nuget.org/packages/Mumby0168.CleanArchitecture.Exceptions/)
+* [CleanArchitecture.Exceptions.AspNetCore](https://www.nuget.org/packages/Mumby0168.CleanArchitecture.Exceptions.AspNetCore/)
+
