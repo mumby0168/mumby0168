@@ -10,7 +10,7 @@ I work in .NET utitilsing the cloud through Azure.
 
 🧑‍💻 Passoniate about domain driven design & clean architecture.
 
-✍️ Recently started a [blog](https://billy-mumby-blog.hashnode.dev) writing about .NET, DevOps & Azure!
+✍️ Recently started a [blog](https://billy-mumby-dev.com) writing about .NET, DevOps & Azure!
 
 📺 Due to appear on the [.NET docs show](https://dotnetdocs.dev/show/6a09ebde-bef4-43ba-be23-23657c65f300). Talking about my journey in OSS.
 
