@@ -18,6 +18,14 @@ I work in .NET utitilsing the cloud through Azure.
 
 🛠 Maintainer of packages to aid testing, clean architecture and creating .NET solutions. Check out my nuget packages below!
 
+## Azure Cosmos DB
+
+I work heavily in Azure Cosmos DB. I work on maintaining a set of packages that aid working with Cosmos DB in C#. The .NET SDKs cover basic CRUD operations, paging, querying and change feed processing. There is also a package which makes event sourcing easy when using Cosmos DB as an event store. See some of these below
+
+☄️ [`IEvageslit.Azure.CosmosRepository`](https://www.nuget.org/packages/IEvangelist.Azure.CosmosRepository/)
+
+📑 [`IEvageslit.Azure.CosmosEventSourcing`](https://www.nuget.org/packages/IEvangelist.Azure.CosmosEventSourcing/)
+
 ## Published Nuget Packages
 
 * [Fluent.Http](https://www.nuget.org/packages/Mumby0168.Fluent.Http/)
